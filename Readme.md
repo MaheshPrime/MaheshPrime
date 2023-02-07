@@ -1,5 +1,5 @@
 <h1>Hey, I'm <a href="">Maheshwaran</a>
-<!--   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <img align="left" style = "border-radius: 8px;" alt="Maheshwaran Banner" src="https://media.licdn.com/dms/image/D5616AQGjTGySpxrknQ/profile-displaybackgroundimage-shrink_350_1400/0/1669563949307?e=1681344000&v=beta&t=uQgnzzHK6_iHp5E8VooO_ECPPXIC32TA97zizpGDjgI" />
@@ -51,4 +51,4 @@
 #### Google Cloud(Data engineering products), AWS
 
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=MaheshPrime&show_icons=true&hide_border=false" />
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPrime)](https://github.com/isribalaji/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPrime)](https://github.com/isribalaji/github-readme-stats)
