@@ -51,6 +51,6 @@
 #### Google Cloud(Data engineering products), AWS
 
 <img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=MaheshPrime&show_icons=true&hide_border=false" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPrime)](https://github.com/isribalaji/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPrime&langs_count=8&theme=dark&show&layout=compact)](https://github.com/MaheshPrime/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPrime)](https://github.com/MaheshPrime/github-readme-stats)
