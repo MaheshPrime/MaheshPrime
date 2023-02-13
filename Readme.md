@@ -14,7 +14,6 @@
 
 #### Fun facts: 
 - I love to build scripts that makes life easier with development, testing and deployment phase.
-- I learnt to skate within a few days during my Fall Semester. Will share some of the pics on [Twitter] Also I like to play CS GO
 - I love reading blogs related to GCP , Spark and Kafka.
 
 ### Cloud Certifications
@@ -50,7 +49,7 @@
 ### <ins> Cloud Technologies: </ins>
 #### Google Cloud(Data engineering products), AWS
 
-<img alt="Sri Balaji Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=MaheshPrime&show_icons=true&hide_border=false" />
+<img alt="Maheshwaran Github Stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=MaheshPrime&show_icons=true&hide_border=false" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshPrime)](https://github.com/MaheshPrime/github-readme-stats)
