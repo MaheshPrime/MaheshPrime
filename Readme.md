@@ -10,7 +10,7 @@
 - I’m currently working as Data Engineer at SADA India.
 - Fun fact: I love to read books and blogs.
 - Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project and received "Best Team award" for the contribution
-- Done a spring intership at TCS Chennai as a Web Developer.
+- Done a spring internship at TCS Chennai as a Web Developer.
 
 #### Fun facts: 
 - I love to build scripts that makes life easier with development, testing and deployment phase.
