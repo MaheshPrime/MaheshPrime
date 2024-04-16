@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<img align="left" style = "border-radius: 8px;" alt="Maheshwaran Banner" src="https://media.licdn.com/dms/image/D5616AQGjTGySpxrknQ/profile-displaybackgroundimage-shrink_350_1400/0/1669563949307?e=1681344000&v=beta&t=uQgnzzHK6_iHp5E8VooO_ECPPXIC32TA97zizpGDjgI" />
+<img align="left" style = "border-radius: 8px;" alt="Maheshwaran Banner" src="[https://media.licdn.com/dms/image/D5616AQGjTGySpxrknQ/profile-displaybackgroundimage-shrink_350_1400/0/1669563949307?e=1681344000&v=beta&t=uQgnzzHK6_iHp5E8VooO_ECPPXIC32TA97zizpGDjgI](https://github.com/MaheshPrime/MaheshPrime/blob/main/banner.jpg)" />
 <br />
 <br />
 
