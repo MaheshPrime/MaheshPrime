@@ -6,10 +6,12 @@
 <br />
 <br />
 
-### Incoming  Data Engineer Intern @ ADOBE !!.
+### Recent Role:  Data Engineer Intern @ ADOBE !!.
 - I’m currently pursuing my master's in Data Science at Indiana University Bloomington.
 - Fun fact: I love to read books and blogs.
-- Worked as a Data Engineer at TCS for a year in Vodafone Nucleus Project and received "Best Team award" for the contribution
+- DOne a Summer Intern (2024) at Adobe, where two robust Neo4j data models mapping the complete customer journey across Adobe products. 
+- Worked as a senior Data Engineer at SADA for almost 1 year, where I focused on Google Cloud Customer.
+- Worked as a Data Engineer at TCS for 2 year in Vodafone Nucleus Project and received "Best Team award" for the contribution
 - Done a spring internship at TCS Chennai as a Web Developer.
 
 #### Fun facts: 
@@ -18,10 +20,10 @@
 
 ### Cloud Certifications
 
-* Certified Google Cloud Associate Cloud Engineer 
+* Databricks Certified Data Engineer Professional
+* Certified AWS Data Engineer Associate
 * Certified Google Cloud Professional Data Engineer
 * Certified Google Cloud Professional Database Engineer
-* Certified AWS Cloud Practioner
 * Databricks Certified Spark Developer 3.0
 
 
@@ -45,7 +47,7 @@
 #### MySQL, Oracle SQL, SQLlite, PostgreSQL, SQLServer, InfluxDB
 
 ### <ins> Tools & Technologies: </ins>
-#### Grafana, Git, GitHub, Linux(Ubuntu Based ), Jenkins(CI/CD), Apache Spark, Apache Airflow, Shell Scripting, JIRA, Confluence, SharePoint
+#### Pyspark, Grafana, Git, GitHub, Linux(Ubuntu Based ), Jenkins(CI/CD), Apache Spark, Apache Airflow, Shell Scripting, JIRA, Confluence, SharePoint
 
 ### <ins> Cloud Technologies: </ins>
 #### Google Cloud(Data engineering products), AWS
